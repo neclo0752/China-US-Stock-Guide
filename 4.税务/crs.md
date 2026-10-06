@@ -1,7 +1,7 @@
 # 1.交换哪些信息？
 > 💡 **快速通道**：[查看美股教程主干道](../README.md)  
 >
-![alt text](https://caige-markdown-images.oss-cn-beijing.aliyuncs.com/img/crs1.png)
+![alt text](../其他/images/crs1.png)  
 
 ## 香港本地银行：
 
@@ -28,7 +28,7 @@
 很多人以为上报但实际不上报的信息：交易明细，你买入卖出的明细是不上报的。
 
 # 2.真实的富途信息交换案例
-![alt text](https://caige-markdown-images.oss-cn-beijing.aliyuncs.com/img/crs2.png)
+![alt text](../其他/images/crs2.png)
 
 
 
